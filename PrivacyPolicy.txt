@@ -1,0 +1,92 @@
+This Privacy Policy governs the privacy practices with respect to your use
+of the mobile software application (hereinafter: "the Software")
+and the gaming service offered therein (hereinafter: "the Service"). 
+ 
+
+DESCRIPTION OF THE INFORMATION WE COLLECT 
+
+To enhance the performance of the Software, we may gather anonymous non-personal
+information about your use of the Software and the Service, such as your IP address,
+device UDID, web browser, etc. We might also use third-party ad-serving and/or
+analytics technologies, which employ a variety of techniques to gather data via the
+Software and the Service.
+
+These technologies may be included into the Software and the Service and may gather
+data from your device, such as your IP address, device UDID, software, applications,
+hardware, browser information, internet and online usage data, and in-game data,
+in addition to demographic and geographic data. 
+ 
+
+WHAT WE DO WITH THE INFORMATION WE COLLECT 
+
+For the purposes of operating the Software and making changes to it, anonymous data 
+acquired through the Software is used. You consent to receiving communications from 
+us about new features or products via the Software and the Service. 
+
+
+YOUR CONTROL OF THE INFORMATION YOU PROVIDE TO US 
+
+Through your Software choices, you may always review and modify the data you gave us.
+You can get in touch with us if you have any queries about this or if you want to
+delete some or all of the information from the Service. We'll respond quickly and
+help you out if you need it. 
+
+
+INFORMATION SHARING PRACTICES 
+
+Unless you gave us permission to do so in accordance with the terms of this Privacy Policy,
+we have a good faith belief that the disclosure of the information is required by any
+applicable law, regulation, court order, legal proceedings, or governmental demand,
+it is necessary to handle security breach or fraud investigations, or it is necessary
+to enforce the terms of our Terms of Use, we do not share any information we collect
+with third parties. You will not be given any information about you by us if you click
+on a link to one of the business partners advertisings in the Software. 
+
+
+AGE REQUIREMENT 
+
+To use the Software, you must be at least three years old. You certify that you are at least 
+3 years old by agreeing to the terms of this Privacy Policy, the Terms of Use that were
+provided to you prior to downloading or displaying the Software, and while using it.
+The conditions of our Terms of Use and this Privacy Policy must be read and accepted by your
+legally appointed guardian if you are under 18 years old. 
+If we have reason to think that you are under the age of 13, we will erase your information
+from our servers. We do not intentionally collect personal information from anyone under the
+age of 13. 
+
+
+INFORMATION SECURITY 
+This kind of service aims to provide a ready-made infrastructure for running particular features
+or components of this Application in addition to hosting the data and files necessary for this
+Application to execute and be distributed. 
+
+It can be challenging to pinpoint the precise location of where the Personal Data are stored because
+some of these services operate through servers that are globally dispersed. 
+
+Firebase (Firebase, Inc.) Google Inc. offers the hosting and backend service Firebase.
+Personal data was gathered in a variety of ways, as described in the service's privacy statement.
+Czechia's privacy policies are available at https://www.google.com/intl/en/policies/privacy/.
+By implementing the necessary security measures, we safeguard your information against unintentional
+loss as well as unauthorized use, modification, or disclosure. 
+
+We restrict access to it to just those of our staff members (or outside service providers we may
+hire solely to help us) who require access to it in order to execute their tasks. 
+
+Although we have taken reasonable operational and technological information security precautions,
+we cannot guarantee that unauthorized parties won't ever be able to get around them. As a result,
+we highly advise you to exercise caution when communicating with people using the Service. 
+
+
+CHANGES TO THIS PRIVACY POLICY 
+
+We shall update our privacy statement if we decide to do so and post it on the software.
+The Software and Service as well as any information you give us will be given to the acquiring party
+in the event that the Company sells or is acquired, or if substantially all of its assets are
+transferred to another party. In this situation, the terms of use and privacy policy in effect at the
+time the software and service were collected would still apply to the information you give. 
+
+
+HOW TO CONTACT US 
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+Shanmukhasiddu@gmail.com 
